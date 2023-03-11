@@ -17,9 +17,10 @@
 
 body {
   font-family: 'Tilt Neon', cursive;
-  background: var(--background);
+  background: #fff;
   color: var(--text);
   margin: 0px;
+  margin-top: 1rem;
   padding: 0px;
 }
 
